@@ -28,6 +28,7 @@ Este sistema permitirá que os usuários clientes, ou seja, funcionários em ger
 ## 💻 Tecnologias Utilizadas 💻
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah-blue"/></a>
+Figma, javascript, mysql, etc
 
 ## 🏠 Estrutura do Projeto 🏠
 
