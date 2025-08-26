@@ -13,16 +13,10 @@ Este sistema permitirá que os usuários clientes, ou seja, funcionários em ger
 
 
 ## 📝 Backlog de Produto 📝
-
-| Código | Descrição | Requisito     |
-|----------|--------|------------|
-| RF001 | Autenticar usuário. | FUNCIONAL |
+Acesse o Product Backlog [clicando aqui.](https://github.com/vanessascarin/HELPBOX/blob/main/Artefatos%20Scrum/PRODUCT%20BACKLOG%20v3.pdf)
 
 ## 📆 Cronograma de evolução do produto 📆
-
-| Sprint | Período | Documentação |
-|----------|--------|------------|
-| 🎟  **SPRINT 1** | 19/08 - 25/08 | XXX |
+Acesse o Sprint Backlog [clicando aqui.](https://github.com/vanessascarin/helpbox-psoo/blob/main/Sprint%20Backlog.md)
 
 
 ## 💻 Tecnologias Utilizadas 💻
