@@ -13,7 +13,7 @@ Este sistema permitirá que os usuários clientes, ou seja, funcionários em ger
 
 
 ## 📝 Backlog de Produto 📝
-Acesse o Product Backlog [clicando aqui.](https://github.com/vanessascarin/HELPBOX/blob/main/Artefatos%20Scrum/PRODUCT%20BACKLOG%20v3.pdf)
+Acesse o Product Backlog [clicando aqui.](https://github.com/vanessascarin/helpbox-psoo/blob/main/PRODUCT%20BACKLOG%20v3.pdf)
 
 ## 📆 Cronograma de evolução do produto 📆
 Acesse o Sprint Backlog [clicando aqui.](https://github.com/vanessascarin/helpbox-psoo/blob/main/Sprint%20Backlog.md)
@@ -24,12 +24,6 @@ Acesse o Sprint Backlog [clicando aqui.](https://github.com/vanessascarin/helpbo
 <a href="https://www.w3schools.com/js"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySql-%2300758f?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-
-## 🏠 Estrutura do Projeto 🏠
-
-
-## 🔺 Como executar, usar e testar o projeto 🔺
-
 
 ## 💻 EQUIPE 💻
 
