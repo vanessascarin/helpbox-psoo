@@ -1,4 +1,3 @@
 <h1> Diagrama de Classes Completo </h1>
 
-<img alt="image" src="https://github.com/user-attachments/assets/08f26617-5d7d-4295-a516-323fc23ebbf5" />
-
+<img alt="image" src="https://github.com/user-attachments/assets/4dcdb777-f64c-4041-9725-83458745f615" />
