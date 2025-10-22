@@ -15,7 +15,10 @@ Este sistema permitirá que os usuários clientes, ou seja, funcionários em ger
 ## 📝 Backlog de Produto 📝
 Acesse o Product Backlog [clicando aqui.](https://github.com/vanessascarin/helpbox-psoo/blob/main/PRODUCT%20BACKLOG%20v3.pdf)
 
-## 📆 Cronograma de evolução do produto 📆
+## 📈Cronograma de evolução do Projeto 📈
+Burndown Chart
+
+## 📆 Sprint backlog 📆
 Acesse o Sprint Backlog [clicando aqui.](https://github.com/vanessascarin/helpbox-psoo/blob/main/Sprint%20Backlog.md)
 
 ## 💻 Tecnologias Utilizadas 💻
@@ -24,6 +27,14 @@ Acesse o Sprint Backlog [clicando aqui.](https://github.com/vanessascarin/helpbo
 <a href="https://www.w3schools.com/js"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySql-%2300758f?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+
+## ⚙️ Estrutura do projeto ⚙️
+Diagrama de classes completo
+
+## ⏯️ Como executar, usar e testar o projeto ⏯️
+
+## 💼 Acesse a Documentação (DoR, DoD e Manual de Usuário) 💼
+DoR e DoD: de acordo com cada sprint, DoR listar as tarefas a serem feitas e DoD o que foi feito, tudo isso refletindo no Burndown Chart. Manual de Usuário do Figma.
 
 ## 💻 EQUIPE 💻
 
