@@ -1,3 +1,3 @@
 # Diagramas UML 
 
-**Caso de Uso:** descreve as funcionalidades (requisitos) do sistema, incluindo os **atores** e mostrando como estes elementos externos interagem com o sistema.
+Visualização prévia de cada diagrama nas pastas referentes, e arquivo Astah completo disponível para download.
