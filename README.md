@@ -29,7 +29,8 @@ Acesse o Sprint Backlog [clicando aqui.](https://github.com/vanessascarin/helpbo
 <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySql-%2300758f?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 ## ⚙️ Estrutura do projeto ⚙️
-Diagrama de classes completo
+<img width="1202" height="709" alt="image" src="https://github.com/user-attachments/assets/b1305efa-7f9b-49a6-9e15-ecd73c79dea1" />
+
 
 ## ⏯️ Como executar, usar e testar o projeto ⏯️
 
