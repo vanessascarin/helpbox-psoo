@@ -1,6 +1,6 @@
 # Requisitos Funcionais
 ## Gerenciar Chamados.
-![image](https://github.com/user-attachments/assets/d7fa9745-1554-4cac-aa5b-aefab7136f0f)
+<img width="977" height="775" alt="image" src="https://github.com/user-attachments/assets/8d2a79a5-546a-4239-8388-627f53a26707" />
 
 ## Gerenciar Relatórios.
 ![image](https://github.com/user-attachments/assets/3de59b3d-f4ad-43ed-9dd3-0d04dd9261f8)
