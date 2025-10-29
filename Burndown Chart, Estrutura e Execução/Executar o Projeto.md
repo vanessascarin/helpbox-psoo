@@ -2,8 +2,8 @@
 ⚙️ Como Executar (Visualizar)
 
 1. Acesse o repositório no GitHub.  
-2. Vá até a pasta **/Diagramas UML** e selecione a sprint desejada.  
-3. Para visualizar ou editar, baixe o arquivo .asta` e abra na ferramenta Astah. 
+2. Vá até a pasta **/Diagramas UML** e baixe o arquivo .asta`.  
+3. Para visualizar ou editar, abra o arquivo na ferramenta Astah. 
 
 🧠 Como Usar
 
